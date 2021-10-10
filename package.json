@@ -1,15 +1,11 @@
 {
-  "name": "@tomafrench/solidity-template",
+  "name": "FratDAO",
   "description": "Setup for writing Solidity smart contracts",
   "version": "1.0.0",
   "contributors": [
     {
-      "name": "Tom French",
-      "url": "https://github.com/TomAFrench"
-    },
-    {
-      "name": "Paul Razvan Berg",
-      "url": "https://paulrberg.com"
+      "name": "0xbrad69",
+      "url": "https://github.com/0xbrad69"
     }
   ],
   "devDependencies": {
