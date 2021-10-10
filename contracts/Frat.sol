@@ -14,7 +14,7 @@ contract Frat {
     uint8 public constant decimals = 18;
 
     /// @notice Total number of tokens in circulation
-    uint public constant totalSupply = 10000000e18; // 10 million Comp
+    uint public constant totalSupply = 69000000e18; // 69 million FRAT
 
     /// @notice Allowance amounts on behalf of others
     mapping (address => mapping (address => uint96)) internal allowances;
